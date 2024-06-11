@@ -1,0 +1,1 @@
+export const MAX_A_INSTRUCTION_VALUE = 32767; // 2^15
